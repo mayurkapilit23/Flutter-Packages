@@ -7,8 +7,8 @@
 depencdencies:
   go_router:
   
- //Then run
- flutter pub get
+#Then run 
+flutter pub get
 ```
 
 ```dart
